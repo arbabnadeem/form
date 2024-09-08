@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form{
+    height: 800px;
+    width: 700px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 2px 4px black,0 2px 4px black;
+    margin: 40px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+#heading{
+    font-size: 45px;
+    margin-left: 25px;
+    margin-top: 35px;
+}
+#web{
+    font-size: 25px;
+    margin-left: 380px;
+    margin-top: -35px;
+}
+form{
+    margin-left: 40px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+#in2{
+    margin-left: 340px;
+    margin-top: -68px;
+}
+.input{
+   padding: 15px 100px 15px 10px;
+}
+#in3{
+    margin-top: 20px;
+}
+#in4{
+    margin-left: 340px;
+    margin-top: -66px
+}
+select{
+    padding: 15px 143px 15px 10px;
+}
+#in5{
+    margin-top: 25px;
+}
+#textarea{
+    width: 611px;
+    height: 183px;
+}
+#in6{
+    margin-top: 30px;
+}
+#in7{
+    margin-left: 340px;
+    margin-top: -68px;
+}
+#in8{
+    margin-top: 20px;
+}
+.date{
+    padding: 15px 150px 15px 10px;
+    border: 1px solid black;
+}
+#in9{
+    margin-left: 340px;
+    margin-top: -68px;
+}
+.Upload{
+    padding: 15px 12px 13px 10px;
+    border: 1px solid black;
+}
+#submit{
+    background-color: red;
+    color: white;
+    padding: 10px 15px;
+    position: relative;
+    left: 520px;
+    top: 20px;
+    border: 1px solid;
+}
